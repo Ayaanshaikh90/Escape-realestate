@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:svgjs="http://svgjs.dev/svgjs" viewBox="0 0 1422 800" opacity="1">
+    <g stroke-width="1" stroke="hsl(0, 0%, 100%)" fill="none" stroke-linecap="square">
+        <line x1="0" y1="0" x2="210" y2="210" opacity="1.00"></line>
+        <line x1="210" y1="0" x2="420" y2="210" opacity="1.00"></line>
+        <line x1="420" y1="0" x2="630" y2="210" opacity="1.00"></line>
+        <line x1="630" y1="0" x2="840" y2="210" opacity="1.00"></line>
+        <line x1="840" y1="0" x2="1050" y2="210" opacity="1.00"></line>
+        <line x1="1050" y1="0" x2="1260" y2="210" opacity="1.00"></line>
+        <line x1="1260" y1="0" x2="1470" y2="210" opacity="1.00"></line>
+        <line x1="210" y1="210" x2="0" y2="420" opacity="0.75"></line>
+        <line x1="210" y1="210" x2="420" y2="420" opacity="0.75"></line>
+        <line x1="630" y1="210" x2="420" y2="420" opacity="0.75"></line>
+        <line x1="630" y1="210" x2="840" y2="420" opacity="0.75"></line>
+        <line x1="840" y1="210" x2="1050" y2="420" opacity="0.75"></line>
+        <line x1="1260" y1="210" x2="1050" y2="420" opacity="0.75"></line>
+        <line x1="1470" y1="210" x2="1260" y2="420" opacity="0.75"></line>
+        <line x1="0" y1="420" x2="210" y2="630" opacity="0.50"></line>
+        <line x1="210" y1="420" x2="420" y2="630" opacity="0.50"></line>
+        <line x1="420" y1="420" x2="630" y2="630" opacity="0.50"></line>
+        <line x1="630" y1="420" x2="840" y2="630" opacity="0.50"></line>
+        <line x1="840" y1="420" x2="1050" y2="630" opacity="0.50"></line>
+        <line x1="1050" y1="420" x2="1260" y2="630" opacity="0.50"></line>
+        <line x1="1470" y1="420" x2="1260" y2="630" opacity="0.50"></line>
+        <line x1="210" y1="630" x2="0" y2="840" opacity="0.25"></line>
+        <line x1="420" y1="630" x2="210" y2="840" opacity="0.25"></line>
+        <line x1="630" y1="630" x2="420" y2="840" opacity="0.25"></line>
+        <line x1="630" y1="630" x2="840" y2="840" opacity="0.25"></line>
+        <line x1="1050" y1="630" x2="840" y2="840" opacity="0.25"></line>
+        <line x1="1050" y1="630" x2="1260" y2="840" opacity="0.25"></line>
+        <line x1="1470" y1="630" x2="1260" y2="840" opacity="0.25"></line>
+    </g>
+</svg>

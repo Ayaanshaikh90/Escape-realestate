@@ -1,0 +1,43 @@
+.servicesSection {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  padding: 50px 0;
+}
+.servicesSection img {
+  width: 100%;
+  height: 400px;
+  object-position: top;
+  object-fit: cover;
+  grid-column: 1/3;
+}
+.servicesSection h2 {
+  font-size: 100px;
+  line-height: normal;
+  text-transform: uppercase;
+  grid-column: 3/5;
+  display: flex;
+  align-items: center;
+  padding: 20px 50px;
+  color: #001e3f;
+}
+
+.servicesCard {
+  display: grid;
+  gap: 20px;
+  padding: 60px 40px;
+  border-right: solid 1px gray;
+  border-top: solid 1px gray;
+}
+
+.servicesCard > h3 {
+  font-weight: bold;
+  text-wrap: wrap;
+  color: #001e3f;
+  display: grid;
+  text-transform: uppercase;
+  font-size: 30px;
+}
+
+.servicesCard > p {
+  font-size: 15px;
+}
