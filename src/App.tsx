@@ -10,6 +10,8 @@ const App = () => {
       <About />
       <Services />
       <Project />
+      <Project />
+      <Project />
     </div>
   );
 };
